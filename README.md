@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Sou estudante do ensino médio, atualmente cursando um técnico em tecnologia. Tenho uma grande experiência em desenvolvimento front-end, especialmente com HTML e CSS. Além disso, também trabalho com Python, tanto no front-end quanto no back-end.
+Olá! Sou estudante do ensino médio, atualmente cursando um técnico em tecnologia. Tenho experiência em desenvolvimento front-end, especialmente com HTML e CSS. Além disso, também trabalho com Python, tanto no front-end quanto no back-end.
 
 ## Objetivos
 
