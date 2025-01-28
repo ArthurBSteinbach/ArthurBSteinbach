@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Sou estudante do ensino médio, atualmente cursando um técnico em tecnologia. Tenho experiência em desenvolvimento front-end, especialmente com HTML e CSS. Além disso, também trabalho com Python, tanto no front-end quanto no back-end.
+Olá! Sou estudante do ensino médio, atualmente cursando um técnico em tecnologia. Tenho experiência em desenvolvimento front-end, especialmente com HTML,CSS e Javascript. Além disso, também trabalho com Python, tanto no front-end quanto no back-end.
 
 ## Objetivos
 
@@ -41,7 +41,7 @@ Possuo uma facilidade significativa para entender conteúdos práticos e teóric
 
 ## Contato
 
-Sinta-se à vontade para entrar em contato comigo através do meu e-mail: arthurbsteinbach@gmail.com ou me encontrar nas redes sociais: [LinkedIn](-ainda sem-).
+Sinta-se à vontade para entrar em contato comigo através do meu e-mail: arthurbsteinbach0@gmail.com ou me encontrar nas redes sociais: [LinkedIn](-ainda sem-).
 
 ## Conclusão
 
